@@ -56,15 +56,11 @@ The `Assertions` class contains assert methods which looks more readable.
 
 #### Data class
 
-The `Data` class contains different data which is useed in tests.
+The `Data` class contains different data which is used in tests.
 
 ### Test classes
 
 The test classes are located in the `Tests` folder and contain examples of Selenium tests written in C# language.
-
-## Contributing
-
-Contributions are welcome! If you would like to contribute to this repository, please fork the repository and submit a pull request.
 
 ## License
 
